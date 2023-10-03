@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import Filters from "../components/Filters";
 import CardList from "../components/CardList";
 import Pagination from "../components/Pagination";
