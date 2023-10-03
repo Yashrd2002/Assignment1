@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "name": "Toyota RAV4",
+    "img": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "year": "2021",
+    "capacity": "4",
+    "engine": "Hybrid",
+    "average": "6.1",
+    "type": "Automatic",
+    "rent": "440"
+  },
+  {
+    "id": 2,
+    "name": "BMW 7",
+    "img": "https://imgd.aeplcdn.com/664x374/n/cw/ec/132513/7-series-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80&q=80",
+    "year": "2021",
+    "capacity": "4",
+    "engine": "Hybrid",
+    "average": "6.1",
+    "type": "Automatic",
+    "rent": "440"
+  },
+  {
+    "id": 3,
+    "name": "Mercedes-Benz AMG E53",
+    "img": "https://imgd.aeplcdn.com/664x374/n/cw/ec/137541/amg-e53-cabriolet-exterior-right-front-three-quarter-8.jpeg?isig=0&q=80&q=80",
+    "year": "2021",
+    "capacity": "4",
+    "engine": "Hybrid",
+    "average": "6.1",
+    "type": "Automatic",
+    "rent": "440"
+  },
+  {
+    "id": 4,
+    "name": "Toyota Innova Crysta",
+    "img": "https://imgd.aeplcdn.com/664x374/n/cw/ec/140809/innova-crysta-exterior-right-front-three-quarter-2.png?isig=0&q=80&q=80",
+    "year": "2021",
+    "capacity": "4",
+    "engine": "Hybrid",
+    "average": "6.1",
+    "type": "Automatic",
+    "rent": "440"
+  },
+  {
+    "id": 5,
+    "name": "Audi e-tron GT",
+    "img": "https://imgd.aeplcdn.com/664x374/n/cw/ec/47073/e-tron-gt-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80&q=80",
+    "year": "2021",
+    "capacity": "4",
+    "engine": "Hybrid",
+    "average": "6.1",
+    "type": "Automatic",
+    "rent": "440"
+  },
+  {
+    "id": 6,
+    "name": "Mercedes-Benz A-Class ",
+    "img": "https://imgd.aeplcdn.com/664x374/n/cw/ec/149525/a-class-limousine-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80&q=80",
+    "year": "2021",
+    "capacity": "4",
+    "engine": "Hybrid",
+    "average": "6.1",
+    "type": "Automatic",
+    "rent": "440"
+  },
+  {
+    "id": 7,
+    "name": "BMW Z4",
+    "img": "https://imgd.aeplcdn.com/664x374/n/cw/ec/149075/z4-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80&q=80",
+    "year": "2021",
+    "capacity": "4",
+    "engine": "Hybrid",
+    "average": "6.1",
+    "type": "Automatic",
+    "rent": "440"
+  },
+  {
+    "id": 8,
+    "name": "Mahindra BE.09",
+    "img": "https://imgd.aeplcdn.com/370x208/n/cw/ec/131799/be09-exterior-left-front-three-quarter.jpeg?isig=0&q=80",
+    "year": "2021",
+    "capacity": "4",
+    "engine": "Hybrid",
+    "average": "6.1",
+    "type": "Automatic",
+    "rent": "440"
+  },
+  {
+    "id": 9,
+    "name": "Mahindra Thar",
+    "img": "https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/40087/thar-exterior-front-view.jpeg?q=80",
+    "year": "2021",
+    "capacity": "4",
+    "engine": "Hybrid",
+    "average": "6.1",
+    "type": "Automatic",
+    "rent": "440"
+  },
+  {
+    "id": 10,
+    "name": "Tata Tiago",
+    "img": "https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/39345/tiago-exterior-front-view-2.jpeg?q=80",
+    "year": "2021",
+    "capacity": "4",
+    "engine": "Hybrid",
+    "average": "6.1",
+    "type": "Automatic",
+    "rent": "440"
+  },
+  {
+    "id": 12,
+    "name": "Mercedes-Benz A-Class",
+    "img": "https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/48034/2-series-gran-coupe-exterior-rear-view.jpeg?q=80",
+    "year": "2021",
+    "capacity": "4",
+    "engine": "Hybrid",
+    "average": "6.1",
+    "type": "Automatic",
+    "rent": "440"
+  },
+  {
+    "id": 13,
+    "name": "Lamborghini Urus-V8",
+    "img": "https://auto.webindia123.com/images/car/lamborghini_urus.jpg",
+    "year": "2021",
+    "capacity": "4",
+    "engine": "Hybrid",
+    "average": "6.1",
+    "type": "Automatic",
+    "rent": "440"
+  },
+  {
+    "id": 14,
+    "name": "Ferrari Roma",
+    "img": "https://imgd.aeplcdn.com/664x374/n/cw/ec/97963/roma-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80&q=80",
+    "year": "2021",
+    "capacity": "4",
+    "engine": "Hybrid",
+    "average": "6.1",
+    "type": "Automatic",
+    "rent": "440"
+  }
+]
